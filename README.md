@@ -1,5 +1,14 @@
 # Projeto Ecommerce com Bootstrap
-## Conhecimentos adquiridos nesse projeto:
+Projeto clone de um site e-commercer ficiticio.
+## Conhecimentos adquiridos nesse projeto: 
+<br>
+<div align="center" >
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+</div>
 
 - Integrar o Bootstrap a um projeto;
 - Analisar a documentação e replicar em um projeto componentes prontos que ela oferece;
@@ -11,3 +20,8 @@
 - Tema de cores do Bootstrap e background;
 - Refatorar o código para tornar o projeto acessível para leitores de tela;
 - Implementou classes de acessibilidade do Bootstrap no projeto;
+
+## Para vizualizar o Projeto Acesse:
+
+[https://projeto-boostrap-ecommerce.vercel.app/](https://projeto-boostrap-ecommerce.vercel.app/)
+
