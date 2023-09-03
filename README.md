@@ -1,5 +1,5 @@
 # Projeto Ecommerce com Bootstrap
-Projeto clone de um site e-commercer ficiticio.
+Projeto clone de um site e-commercer fictício.
 ## Conhecimentos adquiridos nesse projeto: 
 <br>
 <div align="center" >
